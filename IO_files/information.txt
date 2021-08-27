@@ -1,0 +1,6 @@
+9001CemCeylan,Cem Ceylan,15.00-23.00,04.03.1975,General Manager,1.80,80.5,7800.0,45,A Block Floor 1,17.00-20.00
+7001OzanYucel,Ozan Yucel,15.00-23.00,04.03.1975,General Manager,1.80,80.5,7800.0,45,A Block Floor 1,17.00-20.00
+8001GizemCeylan,Gizem Ceylan,15.00-23.00,04.03.1975,General Manager,1.80,80.5,7800.0,45,A Block Floor 1,17.00-20.00
+6001ArdaYucel,Arda Yucel,15.00-23.00,04.03.1975,General Manager,1.80,80.5,7800.0,45,Chemistry
+9002Ahmet,Ahmet Celik,9.00-19.00,06.06.1988,Officer,1.75,78.9,5000.0,31,B Block Floor 2,13.00-15.00
+7006CerenTurkben,Ceren Turkben,14:00-17:00,01/05/1994,Doctor,56.0,1.61,7000.0,26,A Block Floor 03,16:00-17:00
